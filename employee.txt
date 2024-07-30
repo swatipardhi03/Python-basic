@@ -1,0 +1,16 @@
+Name: Samrudhi
+Address: qtr-E/12
+Mobile number:9545315674
+Email address: samrudhi@gmail.com
+
+Name: Vinaya
+Address: qtr-E/12
+Mobile number: 9130378973
+Email address: vinaya@gmail.com
+
+Name: Mayuri
+Address: qtr-E/12
+Mobile number: 8308140570
+Email address: mayuri@gmail.com
+
+
